@@ -34,6 +34,7 @@ monopoly =
     pieces: 4,
     rent_in_dollars: {
       one_piece_owned
+      two_pieces_owned
       
     },
     names: {
