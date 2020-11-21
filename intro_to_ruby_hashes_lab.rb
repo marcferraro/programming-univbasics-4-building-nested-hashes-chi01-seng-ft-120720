@@ -35,7 +35,7 @@ monopoly =
     rent_in_dollars: {},
     names: {
       reading_railroad: {},
-      
+      pennsylvania_railroad: {},
     }
     
   }
